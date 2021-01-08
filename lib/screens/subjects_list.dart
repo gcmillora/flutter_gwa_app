@@ -13,7 +13,7 @@ class _SubjectListScreenState extends State<SubjectListScreen> {
   double gwa = 0;
   double total_grade = 0;
   double total_unit = 0;
-  double _tt = 0;
+  double _tt = 1;
   @override
   void initState() {
     super.initState();
